@@ -3,7 +3,7 @@ package Lab04;
 public class Aluno {
 
 	/**
-	 * Cria uma variavel para armazenar o nome do curso.
+	 * Cria uma variavel para armazenar o nome do curso
 	 */
 	private String curso;
 	/**
